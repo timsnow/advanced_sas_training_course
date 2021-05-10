@@ -1,2 +1,2 @@
-# advanced_sas_training_course
-The Advanced SAS Training Course Code Repository
+# Advanced SAS Training Course
+The code repository that accompanies the Diamond advanced SAS training course
